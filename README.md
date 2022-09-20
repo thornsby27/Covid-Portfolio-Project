@@ -1,5 +1,9 @@
 # Covid-Portfolio-Project
-
+ ** IMPORTANT TO READ THIS PRIOR TO READING OR INTERACTING WITH THE DATA**
+ 
+ This project was personal for me. I have family both in Japan and the United States. My parents and I were concerned about our family in Japan, especially since Japan has such a large geriatric population. However, Japan has dealt with SARS and other viruses in the past that people in the United States haven't had to encounter. Therefore people have been wearing masks there for disease prevention for decades. I have many memories of being in Japan and seeing people wear masks ( my aunt for example) when they're out in public. So I wanted to create this project just to compare how the two countries fared during the pandemic.
+ 
+ 
 Capstone Project #1 Covid 19 Data
 
 Scenario:
