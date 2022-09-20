@@ -3,6 +3,8 @@
  
  This project was personal for me. I have family both in Japan and the United States. My parents and I were concerned about our family in Japan, especially since Japan has such a large geriatric population. However, Japan has dealt with SARS and other viruses in the past that people in the United States haven't had to encounter. Therefore people have been wearing masks there for disease prevention for decades. I have many memories of being in Japan and seeing people wear masks ( my aunt for example) when they're out in public. So I wanted to create this project just to compare how the two countries fared during the pandemic.
  
+ Also, my father was diagnosed with Lung Cancer late 2020/early 2021 (my parents live in the United States). My father being immunocompromised from doing cancer treatment puts him in a high risk category from covid. Which provided another layer of attentiveness that my parents and I had with developments of the pandemic the past 2.5 years.
+ 
  
 Capstone Project #1 Covid 19 Data
 
